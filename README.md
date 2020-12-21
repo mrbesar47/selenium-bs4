@@ -1,4 +1,4 @@
 # selenium-bs4
-# python scrips
+python scrips
 
 Learning to scrape a responsive JavaScript website with selenium and BeautifulSoup
